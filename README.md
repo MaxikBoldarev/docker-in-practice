@@ -15,4 +15,4 @@ _______________________
 ## Задача 4
 _______________________
 <img width="1041" height="299" alt="image" src="https://github.com/user-attachments/assets/2da44238-b49a-48e8-a95f-a0ed1c4e1952" />
-
+ds

@@ -12,6 +12,7 @@ _______________________
 <img width="974" height="58" alt="image" src="https://github.com/user-attachments/assets/03638c07-1edb-47c3-ad55-306d2b59939d" />
 <img width="1126" height="625" alt="image" src="https://github.com/user-attachments/assets/2a59dce9-8f62-4064-b5ba-50ff57bf5c8f" />
 _______________________
+
 ## Задача 4
 _______________________
 <img width="1041" height="299" alt="image" src="https://github.com/user-attachments/assets/2da44238-b49a-48e8-a95f-a0ed1c4e1952" />

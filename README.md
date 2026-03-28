@@ -16,19 +16,22 @@ _______________________
 ## Задача 4
 _______________________
 <img width="1041" height="299" alt="image" src="https://github.com/user-attachments/assets/2da44238-b49a-48e8-a95f-a0ed1c4e1952" />  
+<img width="855" height="668" alt="Снимок экрана от 2026-03-16 11-19-04" src="https://github.com/user-attachments/assets/e05fbde4-5949-451d-9003-670b3f8b1e15" />
+<img width="793" height="724" alt="Снимок экрана от 2026-03-16 11-40-54" src="https://github.com/user-attachments/assets/958c0261-0027-4dfb-8790-0f7689158fd5" />
+Ссылка на форк https://github.com/MaxikBoldarev/shvirtd-example-python
+_______________________
 
-Задача 4
-Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
-Подключитесь к Вм по ssh и установите docker.
-Напишите bash-скрипт, который скачает ваш fork-репозиторий в каталог /opt и запустит проект целиком.
-Зайдите на сайт проверки http подключений, например(или аналогичный): https://check-host.net/check-http и запустите проверку вашего сервиса http://<внешний_IP-адрес_вашей_ВМ>:8090. Таким образом трафик будет направлен в ingress-proxy. Трафик должен пройти через цепочки: Пользователь → Internet → Nginx → HAProxy → FastAPI(запись в БД) → HAProxy → Nginx → Internet → Пользователь
-(Необязательная часть) Дополнительно настройте remote ssh context к вашему серверу. Отобразите список контекстов и результат удаленного выполнения docker ps -a
-Повторите SQL-запрос на сервере и приложите скриншот и ссылку на fork.
-
-
-Задача 6
+## Задача 6
+_______________________
 Скачайте docker образ hashicorp/terraform:latest и скопируйте бинарный файл /bin/terraform на свою локальную машину, используя dive и docker save. Предоставьте скриншоты действий .
+<img width="2472" height="952" alt="Снимок экрана от 2026-03-16 11-52-03" src="https://github.com/user-attachments/assets/3461dffb-6f5b-4338-9617-f6afb41e5d93" />
+<img width="2418" height="1301" alt="Снимок экрана от 2026-03-16 11-57-36" src="https://github.com/user-attachments/assets/ef99db31-03c5-4a2f-9a4b-9502fc8a0daf" />
+_______________________
 
-Задача 6.1
+## Задача 6.1
+_______________________
 Добейтесь аналогичного результата, используя docker cp.
 Предоставьте скриншоты действий .
+<img width="1621" height="1115" alt="Снимок экрана от 2026-03-16 12-06-07" src="https://github.com/user-attachments/assets/14c81ee6-1a0e-43e0-b290-c590b210bd02" />
+<img width="1266" height="282" alt="Снимок экрана от 2026-03-16 12-08-15" src="https://github.com/user-attachments/assets/1e798052-7c00-4f71-8977-6f0fec3ee9f8" />
+
